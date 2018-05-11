@@ -1,0 +1,6 @@
+C:\Users\Dell-Hades\Desktop\All Labs\Lab13JordanBurdick\Lab13JordanBurdick\bin\Debug\Lab13JordanBurdick.exe.config
+C:\Users\Dell-Hades\Desktop\All Labs\Lab13JordanBurdick\Lab13JordanBurdick\bin\Debug\Lab13JordanBurdick.exe
+C:\Users\Dell-Hades\Desktop\All Labs\Lab13JordanBurdick\Lab13JordanBurdick\bin\Debug\Lab13JordanBurdick.pdb
+C:\Users\Dell-Hades\Desktop\All Labs\Lab13JordanBurdick\Lab13JordanBurdick\obj\Debug\Lab13JordanBurdick.csprojResolveAssemblyReference.cache
+C:\Users\Dell-Hades\Desktop\All Labs\Lab13JordanBurdick\Lab13JordanBurdick\obj\Debug\Lab13JordanBurdick.exe
+C:\Users\Dell-Hades\Desktop\All Labs\Lab13JordanBurdick\Lab13JordanBurdick\obj\Debug\Lab13JordanBurdick.pdb
